@@ -3,5 +3,6 @@ span {
   background-color: ghostwhite;
   padding-left: 3px;
   margin-left: 3px;
-  display:inline;
+  display:inline-block;
+ 
 }
